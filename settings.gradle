@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Formula 1 App'

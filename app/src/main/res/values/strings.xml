@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Formula 1 App</string>
+    <string name="driver_detail">Driver Detail</string>
 </resources>

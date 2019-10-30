@@ -12,8 +12,8 @@ fun AppCompatActivity.pushFragmentToContainer(
     if (animated) {
         transaction.setCustomAnimations(
             R.anim.slide_in_right,
-            R.anim.slide_out_left,
-            R.anim.slide_in_left,
+            0,
+            0,
             R.anim.slide_out_right
         )
     }
